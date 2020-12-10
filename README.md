@@ -1,4 +1,4 @@
-### Hi there, I'm Nick - aka [RedbeardJunior] [website]
+### Hi there, I'm Nick - aka [RedbeardJunior][website]
 
 
 
