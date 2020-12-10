@@ -5,7 +5,7 @@
 * I love to code
 * I’m currently learning everything
 
-### Socials:
+## Socials:
 
 <a target="_blank" href="https://www.linkedin.com/in/nick-d-202652104/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
